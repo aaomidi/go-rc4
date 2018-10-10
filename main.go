@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	x "github.com/aaomidi/rc4-go/rc4"
+	x "github.com/aaomidi/go-rc4/rc4"
 )
 
 func main() {
